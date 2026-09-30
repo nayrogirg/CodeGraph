@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CodeGraph</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="logo">◈</span> CodeGraph</div>
+    <form id="analyze-form" class="analyze">
+      <input id="path-input" list="recent-paths" spellcheck="false" autocomplete="off"
+             placeholder="Path to a .sln, .slnx, .csproj, or a folder to scan all solutions in it  (e.g. C:\src\MyCompany)">
+      <datalist id="recent-paths"></datalist>
+      <label class="check" title="Ignore the cache and analyze again"><input type="checkbox" id="force-input"> fresh</label>
+      <button type="submit" class="primary">Analyze</button>
+    </form>
+    <div class="top-actions">
+      <span id="stats" class="stats"></span>
+      <button id="warnings-btn" class="ghost" hidden title="Analysis warnings">⚠ <span id="warnings-count">0</span></button>
+      <button id="export-btn" class="ghost" title="Export the current view as PNG">PNG</button>
+      <button id="theme-btn" class="ghost" title="Switch theme">◐</button>
+    </div>
+  </header>
+
+  <nav class="toolbar">
+    <div class="tabs" role="tablist">
+      <button role="tab" data-level="architecture">Architecture</button>
+      <button role="tab" data-level="namespaces">Namespaces</button>
+      <button role="tab" data-level="classes">Classes</button>
+      <button role="tab" data-level="methods">Methods</button>
+      <button role="tab" data-level="messaging">Messaging</button>
+    </div>
+    <div class="crumbs" id="crumbs"></div>
+    <div class="search">
+      <input id="search-input" placeholder="Search classes, methods…  ( / )" autocomplete="off" spellcheck="false">
+      <ul id="search-results" class="search-results" hidden></ul>
+    </div>
+  </nav>
+
+  <main class="layout">
+    <aside class="panel left">
+      <section>
+        <h3>Relationships</h3>
+        <div id="edge-filters" class="edge-filters"></div>
+      </section>
+      <section>
+        <h3>Show</h3>
+        <label class="check"><input type="checkbox" id="opt-external"> NuGet / external packages</label>
+        <label class="check"><input type="checkbox" id="opt-framework"> .NET framework</label>
+        <label class="check"><input type="checkbox" id="opt-messaging"> RabbitMQ exchanges &amp; queues</label>
+        <label class="check"><input type="checkbox" id="opt-public"> Public API only</label>
+        <label class="check"><input type="checkbox" id="opt-isolated"> Hide unconnected nodes</label>
+      </section>
+      <section id="method-options">
+        <h3>Call graph</h3>
+        <label class="field">Depth <output id="depth-out">2</output>
+          <input type="range" id="opt-depth" min="1" max="5" value="2">
+        </label>
+        <label class="field">Direction
+          <select id="opt-direction">
+            <option value="both">Callers &amp; callees</option>
+            <option value="out">Callees (outgoing)</option>
+            <option value="in">Callers (incoming)</option>
+          </select>
+        </label>
+      </section>
+      <section id="messaging-options">
+        <h3>Messaging</h3>
+        <label class="field">Publishers &amp; consumers as
+          <select id="opt-mq-granularity">
+            <option value="Type">Classes</option>
+            <option value="Method">Methods</option>
+          </select>
+        </label>
+        <label class="check"><input type="checkbox" id="opt-mq-messages"> Show message types</label>
+      </section>
+      <section>
+        <h3>Layout</h3>
+        <select id="opt-layout">
+          <option value="elk">Hierarchical</option>
+          <option value="fcose">Organic</option>
+        </select>
+        <button id="relayout-btn" class="ghost small">Re-run layout</button>
+      </section>
+      <section>
+        <h3>Legend</h3>
+        <div id="legend" class="legend"></div>
+      </section>
+    </aside>
+
+    <section class="canvas-wrap">
+      <div id="cy"></div>
+      <div id="empty" class="empty" hidden></div>
+      <div id="view-note" class="view-note" hidden></div>
+      <div id="tooltip" class="tooltip" hidden></div>
+      <div class="zoom">
+        <button id="fit-btn" title="Fit to screen">⤢</button>
+      </div>
+    </section>
+
+    <aside class="panel right" id="details">
+      <div class="placeholder">Select a node to see its details.<br><br>
+        <b>Click</b> select · <b>Double-click</b> drill down · <b>Hover</b> highlight neighbours · <b>Backspace</b> go back</div>
+    </aside>
+  </main>
+
+  <div id="overlay" class="overlay" hidden>
+    <div class="overlay-box">
+      <div class="spinner"></div>
+      <div id="overlay-msg">Analyzing…</div>
+      <div class="overlay-hint">The first run loads the solution with MSBuild and can take a while.</div>
+    </div>
+  </div>
+
+  <dialog id="warnings-dialog">
+    <h3>Analysis warnings</h3>
+    <ul id="warnings-list"></ul>
+    <form method="dialog"><button class="primary">Close</button></form>
+  </dialog>
+
+  <script src="lib/cytoscape.min.js"></script>
+  <script src="lib/elk.bundled.js"></script>
+  <script src="lib/cytoscape-elk.js"></script>
+  <script src="lib/layout-base.js"></script>
+  <script src="lib/cose-base.js"></script>
+  <script src="lib/cytoscape-fcose.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

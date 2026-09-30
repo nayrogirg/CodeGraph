@@ -1,0 +1,15 @@
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\bin\Debug\net10.0\Shop.Data.deps.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\bin\Debug\net10.0\Shop.Data.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\bin\Debug\net10.0\Shop.Data.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\bin\Debug\net10.0\Shop.Domain.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\bin\Debug\net10.0\Shop.Domain.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.AssemblyInfo.cs
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.csproj.Up2Date
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\refint\Shop.Data.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\Shop.Data.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Data\obj\Debug\net10.0\ref\Shop.Data.dll

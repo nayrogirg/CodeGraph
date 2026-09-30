@@ -1,0 +1,15 @@
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\bin\Debug\net10.0\Billing.Api.deps.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\bin\Debug\net10.0\Billing.Api.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\bin\Debug\net10.0\Billing.Api.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\bin\Debug\net10.0\Contracts.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\bin\Debug\net10.0\Contracts.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.csproj.AssemblyReference.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.AssemblyInfoInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.AssemblyInfo.cs
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Api.csproj.Up2Date
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Billing.Api.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\refint\Billing.Api.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\Billing.Api.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Api\obj\Debug\net10.0\ref\Billing.Api.dll

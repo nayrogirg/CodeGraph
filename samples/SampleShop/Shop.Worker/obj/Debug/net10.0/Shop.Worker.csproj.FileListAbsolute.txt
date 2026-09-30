@@ -1,0 +1,17 @@
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Worker.deps.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Worker.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Worker.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Domain.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Domain.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.csproj.AssemblyReference.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.AssemblyInfoInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.AssemblyInfo.cs
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.csproj.CoreCompileInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Wor.7ADE87FD.Up2Date
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\refint\Shop.Worker.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\Shop.Worker.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\obj\Debug\net10.0\ref\Shop.Worker.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Data.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\SampleShop\Shop.Worker\bin\Debug\net10.0\Shop.Data.pdb

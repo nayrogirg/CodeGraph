@@ -1,0 +1,11 @@
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\bin\Debug\net10.0\Contracts.deps.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\bin\Debug\net10.0\Contracts.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\bin\Debug\net10.0\Contracts.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfo.cs
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\refint\Contracts.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\Contracts.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Billing\Contracts\obj\Debug\net10.0\ref\Contracts.dll

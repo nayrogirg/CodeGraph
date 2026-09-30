@@ -1,0 +1,14 @@
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\bin\Debug\net10.0\Seeder.exe
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\bin\Debug\net10.0\Seeder.deps.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\bin\Debug\net10.0\Seeder.runtimeconfig.json
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\bin\Debug\net10.0\Seeder.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\bin\Debug\net10.0\Seeder.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.AssemblyInfoInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.AssemblyInfo.cs
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.csproj.CoreCompileInputs.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\refint\Seeder.dll
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.pdb
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\Seeder.genruntimeconfig.cache
+C:\Users\vahan.grigoryan.a\Desktop\codegraph\samples\Microservices\Tools\Seeder\obj\Debug\net10.0\ref\Seeder.dll
